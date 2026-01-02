@@ -10,7 +10,11 @@ In the following image you're able to look at the whole pcb!
 <img width="557" height="693" alt="Shreyas_McrPd_PCB" src="https://github.com/user-attachments/assets/584ddad2-b913-48e7-bfd7-6ea81ba874f4" />
 The case and knobs are 3d-printed which will be assembled using screws for the upper and lower part of the body whilst the knobs will just fit on "rotary encoders".
 <img width="643" height="361" alt="Shreyas_McrPd_3DModells" src="https://github.com/user-attachments/assets/f7ca05df-85e9-487e-aef2-4539f55d17f5" />
+And if you take a look at the bottom of the case, you can see 4 rectangular holes which are for the rbg-leds so that they can actually produce a visible lighting effect.
+<img width="586" height="665" alt="McPd_from_bottomPerspective" src="https://github.com/user-attachments/assets/1904e503-c404-452e-94ca-dd02fe41ead1" />
 
+
+# BOM
 Last but not least is my BOM (or Bill of Materials):
 - 1x Seeed XIAO RP2040
 - 9x Through-hole 1N4148 Diodes
