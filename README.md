@@ -1,7 +1,9 @@
 # Shre-s-McrPad
 Hi, Everyone!
 I'm Shreyas and with the help of Hack Club, have I designed a custom Macropad!
-<img width="927" height="731" alt="Shreyas_McrPd_assembled_3DModel" src="https://github.com/user-attachments/assets/b3cfe8e1-6faf-40a2-bb35-8ce39d5588a1" />
+<img width="1053" height="691" alt="McrPd_assembled_with_PCB_inside_from_the_side" src="https://github.com/user-attachments/assets/cc46452f-9fb4-4ee5-b39d-22fb1bc8a611" />
+Here you can see it from a top down perspective:
+<img width="552" height="656" alt="McrPd_assembled_wPCB_fromTop" src="https://github.com/user-attachments/assets/6ca9957e-5e03-476e-a1c3-2a26f318c08d" />
 Here you can take a look at my schematic for the Macropad which basically shows how the different components have to be connected.
 <img width="1111" height="768" alt="Shreyas_McrPd_Schematic" src="https://github.com/user-attachments/assets/93a93645-fd52-46d0-83a9-0966d9e62f0b" />
 In the following image you're able to look at the whole pcb!
